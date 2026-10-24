@@ -1,4 +1,5 @@
-//Take two numbers as input and print their sum, difference, product, and quotient.
+/* Take two numbers as input and print their sum, difference, product, and quotient.
+Mini Calculator Using User Input written by Anubhav Verma */
 #include <stdio.h>
 int main(){
     int a,b;

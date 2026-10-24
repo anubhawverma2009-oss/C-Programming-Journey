@@ -14,4 +14,5 @@ printf("Your are %d year old,",age);
 printf("Your College Name is %s.",College);
 
     return 0;
+    
 }

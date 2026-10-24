@@ -1,5 +1,5 @@
+// Student Marks, Result and Grade Calculator Using Conditional Statements written by Anubhav Verma
 #include <stdio.h>
-#include <math.h>
  int main(){
      float Marks;
      printf("Enter Your Marks: ");

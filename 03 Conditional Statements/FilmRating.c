@@ -1,3 +1,4 @@
+// Movie Rating Classifier Using Conditional Statements written by Anubhav Verma
 #include <stdio.h>
 int main(){
     char MovieName[50];

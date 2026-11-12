@@ -1,6 +1,7 @@
-// Multiplication Table Using While Loop written by Anubhav Verma
-#include <stdio.h>
+/* Multiplication Table Using While Loop 
+written by Anubhav Verma*/
 
+#include <stdio.h>
 int main() {
     int n, i = 1;
 

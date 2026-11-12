@@ -1,4 +1,6 @@
-// Check Whether a Number Is Divisible by 5 Using Conditional Statements written by Anubhav Verma
+/*Check Whether a Number Is Divisible by 5 
+Using Conditional Statements written by Anubhav Verma*/
+
 #include <stdio.h>
 int main() {
     int num;

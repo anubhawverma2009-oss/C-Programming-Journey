@@ -1,4 +1,6 @@
-// Square Star Pattern Using Nested Loops written by Anubhav Verma
+/*Square Star Pattern Using Nested Loops 
+written by Anubhav Verma*/
+
 #include <stdio.h>
 int main(){
 int n=5;

@@ -2,8 +2,15 @@
 #include <stdio.h>
  int main(){
      float Marks;
+     char Name[50];
+     printf("Enter Your Name: ");
+     scanf("%s",Name);
      printf("Enter Your Marks: ");
      scanf("%f",&Marks);
+     printf("-----------------------------\n");
+     printf("-----------------------------\n");
+     printf("-:Your Result:-\n");
+     printf("Student's Name: %s\n",Name);
 if(Marks<33 && Marks>=0){
      printf("Result:FAIL\n");
      printf("GRADE:'D'\n");
@@ -32,5 +39,8 @@ else if(Marks==100){
 else{
      printf("INVALID MARKS!!");
 }
+
+printf("---------ThankYou------------\n");
+printf("-----------------------------");
      return 0;
 }

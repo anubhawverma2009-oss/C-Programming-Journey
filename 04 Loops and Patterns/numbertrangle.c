@@ -1,4 +1,6 @@
-// Number Triangle Pattern Using Nested Loops written by Anubhav Verma
+/*Number Triangle Pattern Using Nested Loops 
+written by Anubhav Verma*/
+
 #include <stdio.h>
 int main(){
  int n;

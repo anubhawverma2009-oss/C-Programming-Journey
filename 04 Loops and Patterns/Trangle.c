@@ -1,0 +1,15 @@
+/*Trangle Star Pattern Using Nested Loops 
+written by Anubhav Verma*/
+#include <stdio.h>
+int main(){
+    int n;
+    printf("Enter A Number: ");
+    scanf("%d",&n);
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=i;j++){
+            printf(" ");   
+        }
+        printf("\n");
+    }
+    return 0;
+}

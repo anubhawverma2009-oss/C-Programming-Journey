@@ -1,4 +1,6 @@
-// Display Multiplication Table of a Given Number Using Function written by Anubhav Verma
+/*Display Multiplication Table of a Given Number 
+Using Function written by Anubhav Verma*/
+
 #include <stdio.h>
 void table(int);
 int main(){

@@ -1,4 +1,6 @@
-// Student Details Using User Input Program written by Anubhav Verma
+/* Student Details Using User Input Program 
+written by Anubhav Verma*/
+
 #include <stdio.h> 
 int main(){
 char Name[50],College[100];

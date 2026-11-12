@@ -1,4 +1,4 @@
-// Swapping Two Numbers Using User Input written by Anubhav Verma
+//Swapping Two Numbers Using User Input written by Anubhav Verma
 #include <stdio.h>
 int main() {
     int a,b,temp;

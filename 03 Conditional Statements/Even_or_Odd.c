@@ -1,4 +1,6 @@
-// Even or Odd Number Using Conditional Statements written by Anubhav Verma
+/* Even or Odd Number Using Conditional Statements
+written by Anubhav Verma*/
+
 #include <stdio.h>
 int main() {
     int num;

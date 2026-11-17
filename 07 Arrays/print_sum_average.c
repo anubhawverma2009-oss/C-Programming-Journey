@@ -18,4 +18,6 @@ int main(){
     printf("Sum: %d",sum);
     average = (float)sum/size;
     printf("\nAverage: %.2f", average);
+
+    return 0;
 }

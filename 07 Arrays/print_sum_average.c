@@ -6,7 +6,7 @@ int main(){
     printf("-:Sum and Average of Array Elements:-");
     printf("\nEnter Size of Array: ");
     scanf("%d", &size);
-    printf("Enter Values: ");
+    printf("Enter %d Values: ", size);
     printf("\n");
     int arr[size];
     for(i=0;i<size;i++){

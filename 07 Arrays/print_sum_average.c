@@ -4,9 +4,9 @@ int main(){
     int size,i,sum=0;
     float average;
     printf("-:Sum and Average of Array Elements:-");
-    printf("\nEnter Size of Array: ");
+    printf("\nEnter Size of An Array: ");
     scanf("%d", &size);
-    printf("Enter %d Values: ", size);
+    printf("Enter %d elements of the Array: ", size);
     printf("\n");
     int arr[size];
     for(i=0;i<size;i++){

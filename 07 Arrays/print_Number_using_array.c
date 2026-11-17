@@ -1,4 +1,4 @@
-// Print Numbers Using Array
+// Print Numbers Using Array written by Anubhav Verma
 
 #include <stdio.h>
 int main(){
